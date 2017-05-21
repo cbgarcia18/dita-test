@@ -2,8 +2,11 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="whatisgithub">
     <title>What is GitHub?</title>
-    <abstract/>
     <body>
         <p>GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+        <p>This tutorial teaches you GitHub essentials like <i>repositories</i>, <i>branches</i>,
+                <i>commits</i>, and <i>Pull Requests</i>. You’ll create your own Hello World
+            repository and learn GitHub’s Pull Request workflow, a popular way to create and review
+            code.</p>
     </body>
 </topic>
